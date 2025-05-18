@@ -18,6 +18,9 @@ EcoTrack is a full-stack web application that helps users track their carbon emi
 | Chart.js     | Flask-CORS  | Carbon Interface API |
 | CSS Flexbox  | SQLAlchemy  | Node.js              |
 
+## UI Preview
+
+![EcoTrack UI Preview](frontend/public/EcoTrack_UI_Preview.png)
 
 ## Setup Instructions
 
