@@ -52,9 +52,9 @@ http://localhost:5000
 ### 3. API Key
 This project uses the Carbon Interface API. To obtain a free API key:
 
-1. Sign up at Carbon Interface
-2. Copy your API key (starts with Bearer )
-3. Insert it into your carbon_api.py file like this:
+1. Sign up at Carbon Interface: https://www.carboninterface.com
+3. Copy your API key (starts with Bearer )
+4. Insert it into your carbon_api.py file like this:
 
 ```python
 headers = {
